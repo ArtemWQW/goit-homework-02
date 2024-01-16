@@ -5,44 +5,43 @@ ul {list-style-type: none;}
 
 a {text-decoration: none;}
 
-/**==============header===========/
+
 
 .header-navi-studio {color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
 .header-navi-portfolio {color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
 .header-navi-contacts {color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
     .header-addr-mail {color: #434455;
         font-size: 16px;
+        font-style: normal;
         font-weight: 400;
-        line-height: 1.5; /* 150% */
+        line-height: 1.50; /* 150% */
         letter-spacing: 0.02em;}
 
 .header-addr-tel {color: #434455;
     font-size: 16px;
+    font-style: normal;
     font-weight: 400;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
 
-    /**===============main=====================*/
 
-
-
-.main-hero {background: var(--NAVY-BLUE, #2E2F42);}
+.main-hero {background: #2E2F42;}
 
 .main-hero-title {color:  #FFF;
     text-align: center;
@@ -55,14 +54,11 @@ a {text-decoration: none;}
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.04em;
     border-radius: 4px;
     background:  #4D5AE5;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);}
-
-
-    /**================advantages==========/
 
 
 .main-advantages-title {
@@ -80,52 +76,51 @@ a {text-decoration: none;}
 .main-advantages-strategy {color:  #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2; /* 120% */
+    line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
 .main-advantages-strategy-p {color:  #434455;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}  
     
 .main-advantages-punctuality {color:  #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2; /* 120% */
+    line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
 .main-advantages-punctuality-p {color:  #434455;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}  
 
 .main-advantages-diligence {color:  #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2; /* 120% */
+    line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
 .main-advantages-diligence-p {color:  #434455;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
 .main-advantages-technologies {color:  #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2; /* 120% */
+    line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
 .main-advantages-technologies-p {color:  #434455;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-    /**==============our team=============**/
 
 .main-team-title {color:  #2E2F42;
     text-align: center;
@@ -135,11 +130,20 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;
     text-transform: capitalize;}
 
+.main-team-title-mark {color:  #2E2F42;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11; /* 111.111% */
+    letter-spacing: 0.02em;
+    text-transform: capitalize;}
+
+
 .main-team-text-mark {color:  #434455;
     text-align: center;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
 .main-team-title-tom {color:  #2E2F42;
@@ -154,7 +158,7 @@ a {text-decoration: none;}
     text-align: center;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
 .main-team-title-camila {color:  #2E2F42;
@@ -169,7 +173,7 @@ a {text-decoration: none;}
     text-align: center;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
 .main-team-title-daniel {color:  #2E2F42;
@@ -184,11 +188,89 @@ a {text-decoration: none;}
     text-align: center;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.5; /* 150% */
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
 
-    /**=================footer============**/
+.portfolio-title {color: #2E2F42;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11; /* 111.111% */
+    letter-spacing: 0.02em;
+    text-transform: capitalize;}
+
+.portfolio-banking-title {color:  #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20; /* 120% */
+    letter-spacing: 0.02em;}
+    
+.portfolio-banking-text {color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.50; /* 150% */
+    letter-spacing: 0.02em;}
+
+.portfolio-cashless-title {color:  #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20; /* 120% */
+    letter-spacing: 0.02em;}
+
+.portfolio-cashless-text {color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.50; /* 150% */
+    letter-spacing: 0.02em;}
+
+.portfolio-meditation-title {color:  #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20; /* 120% */
+    letter-spacing: 0.02em;}
+
+.portfolio-meditation-text {color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.50; /* 150% */
+    letter-spacing: 0.02em;}
+
+.portfolio-taxi-title {color:  #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20; /* 120% */
+    letter-spacing: 0.02em;}
+
+.portfolio-taxi-text {color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.50; /* 150% */
+    letter-spacing: 0.02em;}
+
+.portfolio-illustrations-title {color:  #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20; /* 120% */
+    letter-spacing: 0.02em;}
+
+.portfolio-illustrations-text {color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.50; /* 150% */
+    letter-spacing: 0.02em;}
+
+.portfolio-courses-title {color:  #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20; /* 120% */
+    letter-spacing: 0.02em;}
+
+.portfolio-courses-text {color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.50; /* 150% */
+    letter-spacing: 0.02em;}
 
 .footer {background:  #2E2F42}
 
