@@ -1,5 +1,6 @@
 body {font-family: 'Roboto', sans-serif;
-       color: #434455;}
+       color: #434455;
+       background-color: #FFFFFF;}
 
 ul {list-style-type: none;}  
 
@@ -34,7 +35,7 @@ a {text-decoration: none;}
     cursor: pointer;}
 
 .header-navi-studio:hover{color: #404BBF;}
-.header-navi-studio:active{color:#404BBF;}
+.header-navi-studio:active{color:#404BBF; text-decoration: underline;}
 
 
 
