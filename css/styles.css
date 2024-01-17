@@ -1,36 +1,75 @@
-body {font-family: 'Raleway', sans-serif;
-    font-family: 'Roboto', sans-serif;}
+body {font-family: 'Roboto', sans-serif;
+       color: #434455;}
 
 ul {list-style-type: none;}  
 
 a {text-decoration: none;}
 
 
+.header-navi-logo span {color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16; /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    cursor: pointer;}
 
-.header-navi-studio {color: #2E2F42;
+.header-navi-logo {color: #2E2F42;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16; /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    cursor: pointer;}
+
+
+
+.header-navi-studio {color:#2E2F42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+    cursor: pointer;}
 
-.header-navi-portfolio {color: #2E2F42;
+.header-navi-studio:hover{color: #404BBF;}
+.header-navi-studio:active{color:#404BBF;}
+
+
+
+
+.header-navi-portfolio {color:#2E2F42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+    cursor: pointer;}
+
+.header-navi-portfolio:hover{color: #404BBF;}
+
 
 .header-navi-contacts {color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.50; /* 150% */
+    letter-spacing: 0.02em;
+    cursor: pointer;}
+
+.header-navi-contacts:hover{color: #404BBF;}
+
+
+
+.header-addr-mail {color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-    .header-addr-mail {color: #434455;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 1.50; /* 150% */
-        letter-spacing: 0.02em;}
+.header-addr-mail:hover{color: #404BBF;}
+
+
 
 .header-addr-tel {color: #434455;
     font-size: 16px;
@@ -38,6 +77,8 @@ a {text-decoration: none;}
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
+
+.header-addr-tel:hover{color:#404BBF}
 
 
 
@@ -50,7 +91,8 @@ a {text-decoration: none;}
     line-height: 1.07; /* 107.143% */
     letter-spacing: 0.02em;}
 
-.mail-hero-btn {color: #FFF;
+
+.main-hero-btn {color: #FFF;
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
@@ -58,7 +100,10 @@ a {text-decoration: none;}
     letter-spacing: 0.04em;
     border-radius: 4px;
     background:  #4D5AE5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);}
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    cursor: pointer;}
+
+.main-hero-btn:hover,.main-hero-btn:focus{background: #404BBF;}
 
 
 .main-advantages-title {
@@ -73,56 +118,59 @@ a {text-decoration: none;}
     clip-path: inset(50%);
     margin: -1px;}
 
-.main-advantages-strategy {color:  #2E2F42;
+.main-advantages-strategy {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
-.main-advantages-strategy-p {color:  #434455;
+.main-advantages-strategy-p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}  
     
-.main-advantages-punctuality {color:  #2E2F42;
+.main-advantages-punctuality {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
-.main-advantages-punctuality-p {color:  #434455;
+.main-advantages-punctuality-p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}  
 
-.main-advantages-diligence {color:  #2E2F42;
+.main-advantages-diligence {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
-.main-advantages-diligence-p {color:  #434455;
+.main-advantages-diligence-p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.main-advantages-technologies {color:  #2E2F42;
+.main-advantages-technologies {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
-.main-advantages-technologies-p {color:  #434455;
+.main-advantages-technologies-p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
 
-.main-team-title {color:  #2E2F42;
+.main-team {background: #F4F4FD;}
+
+
+.main-team-title {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -130,7 +178,7 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;
     text-transform: capitalize;}
 
-.main-team-title-mark {color:  #2E2F42;
+.main-team-title-mark {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -139,14 +187,14 @@ a {text-decoration: none;}
     text-transform: capitalize;}
 
 
-.main-team-text-mark {color:  #434455;
+.main-team-text-mark {
     text-align: center;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.main-team-title-tom {color:  #2E2F42;
+.main-team-title-tom {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -154,14 +202,14 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;
     text-transform: capitalize;}
 
-.main-team-text-tom {color:  #434455;
+.main-team-text-tom {
     text-align: center;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.main-team-title-camila {color:  #2E2F42;
+.main-team-title-camila {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -169,14 +217,14 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;
     text-transform: capitalize;}
 
-.main-team-text-camila {color:  #434455;
+.main-team-text-camila {
     text-align: center;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.main-team-title-daniel {color:  #2E2F42;
+.main-team-title-daniel {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -184,7 +232,7 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;
     text-transform: capitalize;}
 
-.main-team-text-daniel {color:  #434455;
+.main-team-text-daniel {
     text-align: center;
     font-size: 16px;
     font-weight: 400;
@@ -192,7 +240,7 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;}
 
 
-.portfolio-title {color: #2E2F42;
+.portfolio-title {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -200,73 +248,73 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;
     text-transform: capitalize;}
 
-.portfolio-banking-title {color:  #2E2F42;
+.portfolio-banking-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
     
-.portfolio-banking-text {color: #434455;
+.portfolio-banking-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.portfolio-cashless-title {color:  #2E2F42;
+.portfolio-cashless-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
-.portfolio-cashless-text {color: #434455;
+.portfolio-cashless-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.portfolio-meditation-title {color:  #2E2F42;
+.portfolio-meditation-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
-.portfolio-meditation-text {color: #434455;
+.portfolio-meditation-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.portfolio-taxi-title {color:  #2E2F42;
+.portfolio-taxi-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
-.portfolio-taxi-text {color: #434455;
+.portfolio-taxi-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.portfolio-illustrations-title {color:  #2E2F42;
+.portfolio-illustrations-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
-.portfolio-illustrations-text {color: #434455;
+.portfolio-illustrations-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.portfolio-courses-title {color:  #2E2F42;
+.portfolio-courses-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
     letter-spacing: 0.02em;}
 
-.portfolio-courses-text {color: #434455;
+.portfolio-courses-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
@@ -274,7 +322,23 @@ a {text-decoration: none;}
 
 .footer {background:  #2E2F42}
 
-.footer-logo {}
+.footer-logo span{color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16; /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    cursor: pointer;}
+
+.footer-logo {color: #F4F4FD;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16; /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    cursor: pointer;}
 
 .footer-text {color: #F4F4FD;
     font-size: 16px;
