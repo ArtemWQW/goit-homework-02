@@ -256,7 +256,7 @@ a {text-decoration: none;}
 .portfolio-title {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.11; /* 120% */
+    line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;}
     
 .portfolio-text {
@@ -268,7 +268,7 @@ a {text-decoration: none;}
 .portfolio-cashless-title {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.11; /* 120% */
+    line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;}
 
 .portfolio-cashless-text {
