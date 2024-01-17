@@ -121,7 +121,7 @@ a {text-decoration: none;}
     clip-path: inset(50%);
     margin: -1px;}
 
-.main-advantages-strategy {
+.main-advantages-strategy {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
@@ -133,7 +133,7 @@ a {text-decoration: none;}
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}  
     
-.main-advantages-punctuality {
+.main-advantages-punctuality {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
@@ -145,7 +145,7 @@ a {text-decoration: none;}
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}  
 
-.main-advantages-diligence {
+.main-advantages-diligence {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
@@ -157,7 +157,7 @@ a {text-decoration: none;}
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.main-advantages-technologies {
+.main-advantages-technologies {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.20; /* 120% */
@@ -245,7 +245,7 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;}
 
 
-.portfolio-title {color: #2e2f42;
+.portfolio-title-main {color: #2e2f42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -253,13 +253,13 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;
     text-transform: capitalize;}
 
-.portfolio-banking-title {color: #2e2f42;
+.portfolio-title {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.20; /* 120% */
+    line-height: 1.11; /* 120% */
     letter-spacing: 0.02em;}
     
-.portfolio-banking-text {
+.portfolio-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.50; /* 150% */
@@ -268,7 +268,7 @@ a {text-decoration: none;}
 .portfolio-cashless-title {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.20; /* 120% */
+    line-height: 1.11; /* 120% */
     letter-spacing: 0.02em;}
 
 .portfolio-cashless-text {
@@ -280,7 +280,7 @@ a {text-decoration: none;}
 .portfolio-meditation-title {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.20; /* 120% */
+    line-height: 1.11; /* 120% */
     letter-spacing: 0.02em;}
 
 .portfolio-meditation-text {
@@ -292,7 +292,7 @@ a {text-decoration: none;}
 .portfolio-taxi-title {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.20; /* 120% */
+    line-height: 1.11; /* 120% */
     letter-spacing: 0.02em;}
 
 .portfolio-taxi-text {
@@ -304,7 +304,7 @@ a {text-decoration: none;}
 .portfolio-illustrations-title {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.20; /* 120% */
+    line-height: 1.11; /* 120% */
     letter-spacing: 0.02em;}
 
 .portfolio-illustrations-text {
@@ -316,7 +316,7 @@ a {text-decoration: none;}
 .portfolio-courses-title {color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.20; /* 120% */
+    line-height: 1.11; /* 120% */
     letter-spacing: 0.02em;}
 
 .portfolio-courses-text {
