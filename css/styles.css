@@ -25,17 +25,19 @@ a {text-decoration: none;}
     text-transform: uppercase;
     cursor: pointer;}
 
+.nav-list{}
 
 
-.header-navi-studio {color:#2E2F42;
+
+.header-navi-link {color:#2E2F42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;
     cursor: pointer;}
 
-.header-navi-studio:hover{color: #404bbf ;}
-.header-navi-studio:active{color:#404BBF; text-decoration: underline;}
+.header-navi-link:hover .header-navi-link:focus{color: #404bbf ;}
+.header-navi-link:active{color:#404BBF; text-decoration: underline;}
 
 
 
