@@ -41,14 +41,14 @@ a {text-decoration: none;}
 
 
 
-.header-addr-address {color: #434455;
+.header-address {color: #434455;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1.50; /* 150% */
+    line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;}
 
-.header-addr-mail:hover, .header-addr-mail:focus{color: #404BBF;}
+.header-address:hover, .header-address:focus{color: #404BBF;}
 
 
 
@@ -56,7 +56,7 @@ a {text-decoration: none;}
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1.50; /* 150% */
+    line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;}
 
 .header-addr-tel:hover, .header-addr-tel:focus{color:#404BBF}
