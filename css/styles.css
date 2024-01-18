@@ -52,17 +52,6 @@ a {text-decoration: none;}
 
 
 
-.header-addr-tel {color: #434455;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5; /* 150% */
-    letter-spacing: 0.02em;}
-
-.header-addr-tel:hover, .header-addr-tel:focus{color:#404BBF}
-
-
-
 .main-hero {background: #2E2F42;}
 
 .main-hero-title {color:  #FFF;
@@ -111,41 +100,6 @@ a {text-decoration: none;}
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}  
     
-.main-advantages-punctuality {color: #2e2f42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.20; /* 120% */
-    letter-spacing: 0.02em;}
-
-.main-advantages-punctuality-p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}  
-
-.main-advantages-diligence {color: #2e2f42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.20; /* 120% */
-    letter-spacing: 0.02em;}
-
-.main-advantages-diligence-p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
-
-.main-advantages-technologies {color: #2e2f42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.20; /* 120% */
-    letter-spacing: 0.02em;}
-
-.main-advantages-technologies-p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
 
 
 .main-team {background: #F4F4FD;}
@@ -179,51 +133,6 @@ a {text-decoration: none;}
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.main-team-title-tom {color: #2e2f42;
-    text-align: center;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2; /* 111.111% */
-    letter-spacing: 0.02em;
-    text-transform: capitalize;}
-
-.main-team-text-tom {
-    text-align: center;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
-
-.main-team-title-camila {color: #2e2f42;
-    text-align: center;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2; /* 111.111% */
-    letter-spacing: 0.02em;
-    text-transform: capitalize;}
-
-.main-team-text-camila {
-    text-align: center;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
-
-.main-team-title-daniel {color: #2e2f42;
-    text-align: center;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2; /* 111.111% */
-    letter-spacing: 0.02em;
-    text-transform: capitalize;}
-
-.main-team-text-daniel {
-    text-align: center;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
-
 
 .portfolio-title-main {color: #2e2f42;
     text-align: center;
@@ -245,65 +154,6 @@ a {text-decoration: none;}
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;}
 
-.portfolio-cashless-title {color: #2e2f42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2; /* 120% */
-    letter-spacing: 0.02em;}
-
-.portfolio-cashless-text {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
-
-.portfolio-meditation-title {color: #2e2f42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.11; /* 120% */
-    letter-spacing: 0.02em;}
-
-.portfolio-meditation-text {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
-
-.portfolio-taxi-title {color: #2e2f42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.11; /* 120% */
-    letter-spacing: 0.02em;}
-
-.portfolio-taxi-text {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
-
-.portfolio-illustrations-title {color: #2e2f42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.11; /* 120% */
-    letter-spacing: 0.02em;}
-
-.portfolio-illustrations-text {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
-
-.portfolio-courses-title {color: #2e2f42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.11; /* 120% */
-    letter-spacing: 0.02em;}
-
-.portfolio-courses-text {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;}
 
 .footer {background:  #2E2F42}
 
