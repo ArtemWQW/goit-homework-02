@@ -25,16 +25,6 @@ a {text-decoration: none;}
     text-transform: uppercase;
     cursor: pointer;}
 
-.nav-list{color:#2E2F42;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;
-    cursor: pointer;}
-
-.nav-list:hover .nav-list:focus {color: #404bbf;}
-.nav-list:active{color:#404BBF; text-decoration: underline;}
-
 
 
 .header-navi-link {color:#2E2F42;
@@ -44,33 +34,8 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;
     cursor: pointer;}
 
-.header-navi-link:hover .header-navi-link:focus {color: #404bbf;}
-.header-navi-link:active {color:#404BBF; text-decoration: underline;}
+.header-navi-link:hover, .header-navi-link:focus {color: #404bbf;}
 
-
-.nav-list-li:hover .nav-list-li:focus {color: #404bbf;}
-.nav-list-li:active {color:#404BBF; text-decoration: underline;}
-
-
-
-.header-navi-portfolio {color:#2E2F42;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;
-    cursor: pointer;}
-
-.header-navi-portfolio:hover{color: #404BBF;}
-
-
-.header-navi-contacts {color: #2E2F42;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.50; /* 150% */
-    letter-spacing: 0.02em;
-    cursor: pointer;}
-
-.header-navi-contacts:hover{color: #404BBF;}
 
 .header-addr{font-style: normal;}
 
